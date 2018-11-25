@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2c7066-ff78-4b45-8937-ea5f48210065" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/onlineshopping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../onlineshopping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shoppingbackend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/rad/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/net/rad/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -83,7 +69,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543106066864" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543106120749" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -111,12 +97,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543105162564</updated>
-      <workItem from="1543105165474" duration="730000" />
+      <workItem from="1543105165474" duration="1051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="730000" />
+    <option name="totallyTimeSpent" value="1051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1613" height="913" extended-state="6" />
